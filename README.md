@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
-Sujen Kancherla Akshat Muir
+Sujen Kancherla and Akshat Muir
 
