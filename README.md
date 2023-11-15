@@ -1,3 +1,4 @@
 # DSC180A-Methodology-4
-Sujen Kancherla
+Sujen Kancherla Akshat Muir
 skancherla@ucsd.edu
+
